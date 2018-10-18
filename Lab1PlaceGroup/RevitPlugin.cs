@@ -55,7 +55,7 @@ namespace Lab1PlaceGroup
                 // Get the room's center point
 
                 XYZ sourceCenter = GetRoomCenter(room);
-                 
+
                 //string coords =
                 //  "X = " + sourceCenter.X.ToString() + "\r\n" +
                 //  "Y = " + sourceCenter.Y.ToString() + "\r\n" +
